@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+hr {
+    color: white;
+}
+
+.fish {
+    align-content: flex-start;
+    margin-left: 200px;
+    margin-top: 250px;
+}
+
+h2 {
+    color: white;
+    margin-left: 200px;
+}
+
+aside {
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: wrap-reverse column;
+}
+
+.images {
+    width: 50%;
+}
+
+.fishRow {
+    display: flex;
+    flex-direction: column;
+    margin-top: 8em;
+}
+
+.pictures {
+    display: flex;
+    margin-top: 5em;
+}
+
+.mainContent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+h3 {
+    font-size: 5em;
+}
+
+.subheading {
+    display: flex;
+    font-size: 5em;
+    margin-top: 0px;
+    padding-left: 1.5em;
+}
+
+.paragraph {
+    font-size: 2em;
+    padding-top: .2em;
+    padding-left: 3em;
+
+}
+
+.fishCare {
+    font-size: 1em;
+}
+
+.lists {
+    display: flex;
+    padding-bottom: 0em;
+    margin-top: -.09em;
+}
+
+.listed {
+    display: flex;
+    padding-top: 4.6em;
+}
+
+.list {
+    display: flex;
+    padding-top: 7.5em;
+}
+
+.location {
+    color: white;
+    font-size: .3em;
+    text-align: center;
+}
+
+.countryOne {
+text-align: center;
+}
+
+.countryTwo {
+    text-align: center;
+}
+
+.countryThree {
+    text-align: center;
+}
+
+.quote {
+    font-size: 5em;
+    padding-bottom: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+/*body {
+    margin: 0;
+
+}
+
+.pageHeader {
+    margin-top: 10px;
+    text-align: center;
+    align-content: center;
+}
+
+.list {
+    column-count: 3;
+}
+
+.shop {
+    border: dashed grey 1px;
+}
+
+.shop1 {
+display: flex;
+justify-content: space-around;
+margin-left: 500px;
+white-space: nowrap;
+}*/
